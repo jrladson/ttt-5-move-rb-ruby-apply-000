@@ -1,4 +1,4 @@
-RSpec.configure do |config|
+x1RSpec.configure do |config|
   config.order = :default
 end
 
